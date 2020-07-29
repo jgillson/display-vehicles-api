@@ -23,4 +23,4 @@
 10.  If authentication to Trellis Connect was successful, a status message displays indicating
      "Successfully authenticated to Trellis Connect!"
 
-11.  To load the Vehicles information on the policy, click the `Display Vehicles`
+11.  To load the Vehicles information on the policy, click the `Display Vehicles` button
