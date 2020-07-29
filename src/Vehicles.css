@@ -1,0 +1,15 @@
+
+table#vehicletable {
+    table-layout: fixed ;
+    width: 100% ;
+    border-collapse: collapse ;
+    border: 1px black solid ;
+}
+table#vehicletable td {
+    width: 50% ;
+    border: 1px black solid ;
+    padding: 10px ;
+}
+table#vehicletable caption {
+    font-style: italic ;
+}
